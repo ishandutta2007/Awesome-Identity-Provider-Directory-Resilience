@@ -48,9 +48,9 @@ A comprehensive breakdown of enterprise SaaS platforms specializing in identity 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the most capable open-source Identity Providers, directory management systems, Active Directory analysis frameworks, and resilience utilities. Sorted in descending order by GitHub Stars ⭐.
+Explore the most capable open-source Identity Providers, directory management systems, Active Directory analysis frameworks, and resilience utilities. Sorted in descending order by GitHub_Stars ⭐.
 
-| 📦 Repository | ⭐ Stars | 📝 Description | 🎯 Resilience & Identity Capabilities |
+| 📦 Repository | ⭐ GitHub_Stars | 📝 Description | 🎯 Resilience & Identity Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Open Source Identity and Access Management for Modern Applications and Services | Centralized SSO, user federation (LDAP/AD), fine-grained authorization, and identity brokering. |
 | **[Authelia](https://github.com/authelia/authelia)** | [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) | Single Sign-On Multi-Factor authentication companion for reverse proxies | Hardened multi-factor authentication portal (WebAuthn/TOTP/Duo) with LDAP/AD backend pass-through. |
@@ -119,7 +119,7 @@ Contributions are warmly encouraged! To propose a new SaaS solution or open-sour
 2. 🌿 Create a descriptive branch: `git checkout -b add-identity-tool`.
 3. 📝 Update `README.md` following the established table structure.
    - For SaaS products, verify pricing and free trial details from official sources.
-   - For Open-Source projects, include repository links and official star badges (`style=social&color=white`).
+   - For Open-Source projects, include repository links and official Stars_Badges (`style=social&color=white`).
 4. 🚀 Commit your changes: `git commit -m "Add New-Identity-Tool to curated list"`.
 5. 📤 Push to your fork: `git push origin add-identity-tool`.
 6. 🔀 Submit a **Pull Request** detailing why the tool qualifies for inclusion.
